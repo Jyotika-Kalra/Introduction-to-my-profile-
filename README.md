@@ -9,3 +9,5 @@
 * How to reach me - **jyotika16libra@gmail.com**
 * Pronoun - **She/her**
 * Fun Fact - **Struggling with Python**
+
+![Beginner](https://www.justinguitar.com/images/thumbnails/Beginner.png)
