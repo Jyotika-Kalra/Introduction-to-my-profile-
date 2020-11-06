@@ -1,5 +1,7 @@
 ### Here is what I am working on!
 
+## I am a beginner to DATA!!
+
 * I am currently working with - **Code Academy Berlin**
 * I am currently learning - **Business Intelligence**
 * I am looking for help with - **Beginners Guidelines**
