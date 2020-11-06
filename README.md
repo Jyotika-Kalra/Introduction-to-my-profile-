@@ -8,6 +8,6 @@
 * Teach me with - **Everything related to Business Intelligence**
 * How to reach me - **jyotika16libra@gmail.com**
 * Pronoun - **She/her**
-* Fun Fact - **Struggling with Python**
+* Fun Fact - **Playing with DATA**
 
 ![Beginner](https://www.justinguitar.com/images/thumbnails/Beginner.png)
